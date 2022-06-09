@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValuteAPI", "ValuteAPI.csproj", "{179CC2C9-6A82-4984-825A-401240E45FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179CC2C9-6A82-4984-825A-401240E45FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179CC2C9-6A82-4984-825A-401240E45FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179CC2C9-6A82-4984-825A-401240E45FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179CC2C9-6A82-4984-825A-401240E45FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C21F37FF-4052-4BC4-B1F9-2BC675B637D0}
+	EndGlobalSection
+EndGlobal
